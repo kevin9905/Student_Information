@@ -1,4 +1,4 @@
-live demo link : https://student-information-app.herokuapp.com/
+You can view a live demo over at https://student-information-app.herokuapp.com/
 # Student Profiles
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/) template and [Antd Design](https://ant.design/).
